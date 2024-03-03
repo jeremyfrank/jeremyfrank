@@ -1,5 +1,5 @@
 ## Hello, I’m Jeremy 👋
 
-I'm a creative and technical all-rounder developer, bridging the gap between design and engineering. Currently building user interfaces for web and product teams at [Viget](https://www.viget.com/).
+Design-driven front-end developer, team leader and mentor, daily building for the web, crafting user interface details, and guiding team initiatives at [Viget](https://www.viget.com/).
 
-[jeremyfrank.dev](https://jeremyfrank.dev/) | [CodePen](https://codepen.io/jeremyfrank) | [LinkedIn](https://www.linkedin.com/in/jerfrank/)
+[jeremyfrank.dev](https://jeremyfrank.dev/) | [LinkedIn](https://www.linkedin.com/in/jerfrank/) | [CodePen](https://codepen.io/jeremyfrank)
